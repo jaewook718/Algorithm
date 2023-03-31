@@ -60,4 +60,5 @@
 ### 🚀 Silver
 | 문제번호 | 링크 |
 | ----- | ----- |
+|1697. 숨바꼭질|[링크](./%EB%B0%B1%EC%A4%80/Silver/1697.%E2%80%85%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88/README.md)|
 |1991. 트리 순회|[링크](./%EB%B0%B1%EC%A4%80/Silver/1991.%E2%80%85%ED%8A%B8%EB%A6%AC%E2%80%85%EC%88%9C%ED%9A%8C/%ED%8A%B8%EB%A6%AC%E2%80%85%EC%88%9C%ED%9A%8C.py)|
