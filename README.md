@@ -68,6 +68,10 @@
 |9205. 맥주 마시면서 걸어가기|[링크](./%EB%B0%B1%EC%A4%80/Gold/9205.%E2%80%85%EB%A7%A5%EC%A3%BC%E2%80%85%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%E2%80%85%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0/%EB%A7%A5%EC%A3%BC%E2%80%85%EB%A7%88%EC%8B%9C%EB%A9%B4%EC%84%9C%E2%80%85%EA%B1%B8%EC%96%B4%EA%B0%80%EA%B8%B0.py)|
 |9251. LCS|[링크](./%EB%B0%B1%EC%A4%80/Gold/9251.%E2%80%85LCS/README.md)|
 |9663. N－Queen|[링크](./%EB%B0%B1%EC%A4%80/Gold/9663.%E2%80%85N%EF%BC%8DQueen/N%EF%BC%8DQueen.py)|
+### 🚀 Platinum
+| 문제번호 | 링크 |
+| ----- | ----- |
+|23291. 어항 정리|[링크](./%EB%B0%B1%EC%A4%80/Platinum/23291.%E2%80%85%EC%96%B4%ED%95%AD%E2%80%85%EC%A0%95%EB%A6%AC/%EC%96%B4%ED%95%AD%E2%80%85%EC%A0%95%EB%A6%AC.py)|
 ### 🚀 Silver
 | 문제번호 | 링크 |
 | ----- | ----- |
