@@ -45,7 +45,6 @@ while True:
     arr = melt()
     visited = [[0]*M for _ in range(N)]
     cnt = 0
-    melt()
     for i in range(N):
         for j in range(M):
             if arr[i][j] and not visited[i][j]:
