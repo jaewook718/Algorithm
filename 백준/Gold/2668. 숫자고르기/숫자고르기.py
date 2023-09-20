@@ -5,23 +5,22 @@ for _ in range(N):
 
 ans = []
 def dfs(index, tmp1, tmp2):
+    global ans
+    if tmp1 == tmp2:
+        ans += tmp1
     if not visited[index]:
         visited[index] = 1
-        tmp1.add(index)
-        tmp2.add(arr[index]-1)
-        dfs(arr[index]-1, tmp1, tmp2)
+        tmp1.append(index)
+        tmp2.append(arr[index]-1)
+        dfs(arr[index]-1,list(set(tmp1)), list(set(tmp2)))
 
-visited = [0]*N
 for i in range(N):
-    tmp1 = set()
-    tmp2 = set()
+    visited = [0] * N
     if not visited[i] and i not in ans:
+        tmp1 = []
+        tmp2 = []
         dfs(i, tmp1, tmp2)
-    if tmp1 == tmp2:
-        ans += list(tmp1)
-    else:
-        for t in tmp1:
-            visited[t] = 0
+
 ans = sorted(ans)
 print(len(ans))
 for a in ans:
